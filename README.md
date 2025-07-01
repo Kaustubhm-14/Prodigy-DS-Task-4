@@ -54,14 +54,6 @@ Develop a predictive model that can classify a given message as **Spam** or **Ha
 
 ---
 
-## 📊 Sample Visualizations
-
-<p float="left">
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_04/blob/main/plots/sample1.png" width="45%" />
-  <img src="https://github.com/kindo-tk/PRODIGY_DS_04/blob/main/plots/sample2.png" width="45%" />
-</p>
-
----
 
 ## ✅ Conclusion & Learnings
 - Applied complete NLP pipeline from raw text to model inference
@@ -69,6 +61,3 @@ Develop a predictive model that can classify a given message as **Spam** or **Ha
 - Gained clarity on classification trade-offs (Precision vs Recall in spam detection)
 - Developed a deployable ML pipeline for real-world text data
 
----
-
-## 📁 Repository Structure
